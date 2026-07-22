@@ -1,197 +1,77 @@
-# Hi there, I'm Muhammad Dawood 👋
+<div align="center">
 
-## Senior WordPress Developer | Full Stack Web Developer
+# Hi, I'm Muhammad Dawood 👋
 
-I'm a passionate **Senior WordPress Developer** with **5+ years of professional experience** building modern, scalable, and high-performance websites for businesses across multiple industries.
+### Senior WordPress Developer · Custom Solutions · AI Automation
 
-Over the years, I've worked with startups, agencies, and international clients to develop custom WordPress solutions, eCommerce stores, business websites, educational platforms, and real estate portals.
+I build custom WordPress products, high-performing business websites, and practical automation systems that turn complex workflows into reliable digital experiences.
 
-Currently, I'm working as a **Senior WordPress Developer at Tvoxel Technologies**, a digital marketing agency, where I build custom websites, optimize performance, solve complex WordPress challenges, and deliver scalable solutions for clients worldwide.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-dawood-03b307274/)
+[![Website](https://img.shields.io/badge/Website-Tvoxel-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tvoxel.com/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.dawood1006@gmail.com)
 
-Previously, I also served as a **WordPress Instructor at Bano Qabil**, where I trained aspiring developers in WordPress development and helped them build practical web development skills.
+</div>
 
----
+## About Me
 
-# 🚀 About Me
+I'm a **Senior WordPress Developer with 5+ years of professional experience**, currently working at **Tvoxel Technologies**. I develop custom themes and plugins, WooCommerce solutions, business platforms, and integrations for startups, agencies, and international clients.
 
-- 💼 Senior WordPress Developer (5+ Years)
-- 🏢 Senior WordPress Developer at **Tvoxel Technologies**
-- 👨‍🏫 Former WordPress Instructor at **Bano Qabil**
-- 🌍 Worked with multiple international clients
-- 🛒 WooCommerce Specialist
-- ⚡ Performance & Speed Optimization Expert
-- 🔒 Website Security & Maintenance
-- 🎯 Focused on Clean Code & User Experience
-- 📚 Continuously learning modern web technologies
+I previously worked as a **WordPress Instructor at Bano Qabil**, helping aspiring developers turn WordPress knowledge into practical development skills.
 
----
+Alongside WordPress, I work with **AI-assisted development and business automation**, using tools such as GoHighLevel, Claude, and Codex to improve lead handling, content operations, client workflows, and development productivity.
 
-# 💻 Technical Skills
+## What I Build
 
-## WordPress
+- Custom WordPress themes and plugins
+- WooCommerce stores and checkout customizations
+- Business, education, and real-estate websites
+- REST API, webhook, CRM, and third-party integrations
+- Performance optimization, security hardening, and maintenance
+- GoHighLevel workflows and CRM automation
+- AI-assisted tools and business-process automations
 
-- Custom Theme Development
-- Custom Plugin Development
-- WordPress Core Customization
-- Elementor Pro
-- WooCommerce Development
-- Advanced Custom Fields (ACF)
-- Custom Post Types (CPT)
-- Dynamic Content
-- Template Development
-- Child Themes
-- Theme Customization
-- Plugin Customization
-- REST API Integration
-- Website Migration
-- Bug Fixing
-- Malware Cleanup
-- Security Hardening
-- Website Maintenance
-- Performance Optimization
-- SEO Optimization
-- Google PageSpeed Optimization
-- Responsive Development
-- Cross-Browser Compatibility
+## Core Stack
 
----
+**WordPress:** PHP, WooCommerce, Elementor Pro, ACF, Custom Post Types, WordPress REST API  
+**Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Tailwind CSS, Bootstrap  
+**Backend:** PHP, Node.js, Express.js, MySQL, REST APIs, Webhooks  
+**Automation:** GoHighLevel, AI workflows, CRM automation, Claude, Codex  
+**Infrastructure:** Git, GitHub, Postman, cPanel, WHM, Cloudflare, DNS, SMTP
 
-## Frontend
+## Selected Work
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- jQuery
-- React
-- Tailwind CSS
-- Bootstrap
+| Project | Category | Website |
+|---|---|---|
+| Tvoxel Technologies | Technology and custom software company | [Visit website](https://tvoxel.com/) |
+| Quran Club | Online Quran education platform | [Visit website](https://quranclub.pk/) |
+| Himalayas Education | Education consultancy website | [Visit website](https://himalayaseducation.pk/) |
+| Homeseekers Real Estate | Property sales and rental platform | [Visit website](https://homeseekersre.com/) |
+| Lakeside Window Cleaning | Local service-business website | [Visit website](https://lakesidewindowclean.com/) |
+| Custom WordPress Project | Custom WordPress implementation | [View project](https://opposite-purple-h0mhozaq.edgeone.dev/) |
+| Custom Web Project | Custom web implementation | [View project](https://shallow-peach-udbj5kmf.edgeone.dev/) |
 
----
+> Detailed case studies, screenshots, technical decisions, and sanitized automation workflows will be added as dedicated repositories.
 
-## Backend
+## Current Focus
 
-- PHP
-- Node.js
-- Express.js
-- MySQL
+- Publishing reusable WordPress plugins and starter projects
+- Documenting real-world WordPress case studies
+- Building GoHighLevel and AI automation examples
+- Creating custom software and API integration projects
+- Contributing useful resources to the WordPress community
+
+## Let's Connect
+
+I'm open to collaborating on **WordPress products, custom web solutions, API integrations, and business automation projects**.
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-dawood-03b307274/)
+- [Tvoxel Technologies](https://tvoxel.com/)
+- [Email](mailto:muhammad.dawood1006@gmail.com)
 
 ---
 
-## Tools & Technologies
+<div align="center">
 
-- Git
-- GitHub
-- VS Code
-- Figma
-- Canva
-- Photoshop
-- Adobe Illustrator
-- Postman
-- cPanel
-- WHM
-- Cloudflare
-- DNS Management
-- SMTP Configuration
-- Google Analytics
-- Google Search Console
+**Build with purpose. Automate what slows people down.**
 
----
-
-# 🌱 Currently Learning
-
-- Laravel
-- Advanced React
-- Next.js
-- Docker
-- CI/CD
-- AWS
-
----
-
-# 🌐 Portfolio
-
-### Tvoxel Technologies
-https://tvoxel.com/
-
-### Quran Club
-https://quranclub.pk/
-
-### Himalayas Education
-https://himalayaseducation.pk/
-
-### Homeseekers Real Estate
-https://homeseekersre.com/
-
-### Lakeside Window Clean
-http://lakesidewindowclean.com/
-
-### Custom WordPress Project
-https://opposite-purple-h0mhozaq.edgeone.dev/
-
-### Custom Web Project
-https://shallow-peach-udbj5kmf.edgeone.dev/
-
----
-
-# 🎯 Services
-
-- Custom WordPress Development
-- Custom Theme Development
-- Custom Plugin Development
-- WooCommerce Development
-- Elementor Development
-- Landing Pages
-- Business Websites
-- eCommerce Stores
-- LMS Websites
-- Real Estate Websites
-- Website Speed Optimization
-- Website Security
-- Website Maintenance
-- Website Migration
-- Bug Fixing
-- API Integration
-- Figma to WordPress
-- PSD/XD/Figma to HTML
-- SEO-Friendly Development
-
----
-
-# 📈 GitHub Goals
-
-- Build high-quality open-source projects
-- Publish reusable WordPress plugins
-- Share developer resources
-- Contribute to the WordPress community
-- Expand my Full Stack Development expertise
-
----
-
-# 📫 Connect With Me
-
-🌐 Portfolio: https://tvoxel.com
-
-💼 LinkedIn: *(https://www.linkedin.com/in/muhammad-dawood-03b307274/)*
-
-📧 Email: *(muhammad.dawood1006@gmail.com)*
-
----
-
-> *"Code with purpose. Build with quality. Learn continuously."*
-
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
-<!--
-**davimiza1/davimiza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
