@@ -45,7 +45,7 @@ Alongside WordPress, I work with **AI-assisted development and business automati
 | Tvoxel Technologies | Technology and custom software company | [Visit website](https://tvoxel.com/) |
 | Quran Club | Online Quran education platform | [Visit website](https://quranclub.pk/) |
 | Himalayas Education | Education consultancy website | [Visit website](https://himalayaseducation.pk/) |
-| Homeseekers Real Estate | Property sales and rental platform | [Visit website](https://homeseekersre.com/) |
+| Homeseekers Real Estate | Property sales and rental platform | [Case study](https://github.com/davimiza1/homeseekers-wordpress-case-study) · [Live website](https://homeseekersre.com/) |
 | Lakeside Window Cleaning | Local service-business website | [Visit website](https://lakesidewindowclean.com/) |
 | Custom WordPress Project | Custom WordPress implementation | [View project](https://opposite-purple-h0mhozaq.edgeone.dev/) |
 | Custom Web Project | Custom web implementation | [View project](https://shallow-peach-udbj5kmf.edgeone.dev/) |
