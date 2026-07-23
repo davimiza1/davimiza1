@@ -38,6 +38,11 @@ Alongside WordPress, I work with **AI-assisted development and business automati
 **Automation:** GoHighLevel, AI workflows, CRM automation, Claude, Codex  
 **Infrastructure:** Git, GitHub, Postman, cPanel, WHM, Cloudflare, DNS, SMTP
 
+## Featured GitHub Projects
+
+- **[CRM Lead Connector](https://github.com/davimiza1/wordpress-crm-lead-connector)** — Original WordPress plugin for reliable Elementor and custom-form lead delivery to GoHighLevel or any CRM webhook, with secure signing, logs, and automatic retries.
+- **[Homeseekers WordPress Case Study](https://github.com/davimiza1/homeseekers-wordpress-case-study)** — Real-estate implementation covering custom property fields, Elementor Pro, CRM integration architecture, and performance work.
+
 ## Selected Work
 
 | Project | Category | Website |
@@ -50,7 +55,7 @@ Alongside WordPress, I work with **AI-assisted development and business automati
 | Custom WordPress Project | Custom WordPress implementation | [View project](https://opposite-purple-h0mhozaq.edgeone.dev/) |
 | Custom Web Project | Custom web implementation | [View project](https://shallow-peach-udbj5kmf.edgeone.dev/) |
 
-> Detailed case studies, screenshots, technical decisions, and sanitized automation workflows will be added as dedicated repositories.
+> More case studies, reusable plugins, and sanitized automation workflows are being published as dedicated repositories.
 
 ## Current Focus
 
