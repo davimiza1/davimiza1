@@ -40,7 +40,7 @@ Alongside WordPress, I work with **AI-assisted development and business automati
 
 ## Featured GitHub Projects
 
-- **[Elevate Business Block Theme](https://github.com/davimiza1/wordpress-business-block-theme)** — Original full-site-editing WordPress theme with a conversion-focused homepage, reusable patterns, responsive templates, and no page-builder dependency.
+- **[Elevate Business Pro](https://github.com/davimiza1/wordpress-business-block-theme)** — Advanced Elementor-first hybrid WordPress theme with Theme Builder locations, Gutenberg patterns, WooCommerce support, Customizer controls, performance options, and a portable companion plugin.
 - **[CRM Lead Connector](https://github.com/davimiza1/wordpress-crm-lead-connector)** — Original WordPress plugin for reliable Elementor and custom-form lead delivery to GoHighLevel or any CRM webhook, with secure signing, logs, and automatic retries.
 - **[Homeseekers WordPress Case Study](https://github.com/davimiza1/homeseekers-wordpress-case-study)** — Real-estate implementation covering custom property fields, Elementor Pro, CRM integration architecture, and performance work.
 
